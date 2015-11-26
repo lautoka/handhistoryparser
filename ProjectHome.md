@@ -1,0 +1,1 @@
+The goal of this project is to provide an up-to-date parser which can be used to parse a hand history from any site.
